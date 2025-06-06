@@ -1,5 +1,5 @@
 # Creating an application with a Go code sample
-woooorrrrrrrrrrkkkkkkkkkk please I beg you
+woooorrrrrrrrrrkkkkkkkkkk please I beg you pleeeeeease
 
 **Note:** The Go code sample uses the **8081** HTTP port.
 
