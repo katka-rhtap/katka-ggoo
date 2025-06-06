@@ -31,6 +31,8 @@ pipeline {
         /* NEXUS_IO_CREDS = credentials('NEXUS_IO_CREDS') */
         COSIGN_SECRET_PASSWORD = credentials('COSIGN_SECRET_PASSWORD')
         COSIGN_SECRET_KEY = credentials('COSIGN_SECRET_KEY')
+        COSIGN_PUBLIC_KEY = credentials('COSIGN_PUBLIC_KEY')
+        ROX_CENTRAL_ENDPOINT = credentials('ROX_CENTRAL_ENDPOINT')
     }
     stages {
         stage('init') {
